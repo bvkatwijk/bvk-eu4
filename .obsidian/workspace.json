@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "vh-bohemia-1-culture/0. Campaign Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "0. Campaign Outline"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "vh-bohemia-1-culture/0. Campaign Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for 0. Campaign Outline"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "vh-bohemia-1-culture/0. Campaign Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from 0. Campaign Outline"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md",
+                "file": "vh-bohemia-1-culture/0. Campaign Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of 0. Campaign Outline"
             }
           }
         ]
@@ -186,29 +186,29 @@
   },
   "active": "bdcab7d7175f1751",
   "lastOpenFiles": [
-    "docs/docs/site-lib/styles/obsidian.css",
-    "docs/docs/site-lib/styles/main-styles.css",
-    "docs/docs/site-lib/styles/global-variable-styles.css",
-    "docs/docs/site-lib/styles",
-    "docs/docs/site-lib/scripts/graph-wasm.wasm",
-    "docs/docs/site-lib/scripts/webpage.js",
-    "docs/docs/site-lib/scripts/graph-wasm.js",
-    "docs/docs/site-lib/scripts/graph-render-worker.js",
-    "docs/docs/site-lib/scripts",
-    "docs/docs/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
-    "docs/docs/site-lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/docs/docs/site-lib/styles/obsidian.css",
+    "docs/docs/docs/site-lib/styles/main-styles.css",
+    "docs/docs/docs/site-lib/styles/global-variable-styles.css",
+    "docs/docs/docs/site-lib/styles",
+    "docs/docs/docs/site-lib/scripts/webpage.js",
+    "docs/docs/docs/site-lib/scripts/graph-wasm.wasm",
+    "docs/docs/docs/site-lib/scripts/graph-wasm.js",
+    "docs/docs/docs/site-lib/scripts/graph-render-worker.js",
+    "docs/docs/docs/site-lib/scripts",
+    "docs/docs/docs/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
+    "docs/docs/docs/site-lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/docs/pasted-image-20260407195208.png",
+    "docs/docs/202604~2.jpg",
+    "docs/docs/docs/site-lib/media/favicon.png",
+    "docs/docs/docs/site-lib/media/6155340132a851f6089e.svg",
+    "docs/docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "vh-bohemia-1-culture/0. Campaign Outline.md",
+    "Introduction.md",
     "docs/pasted-image-20260407195208.png",
     "docs/202604~2.jpg",
     "docs/docs/site-lib/media/favicon.png",
-    "vh-bohemia-1-culture/0. Campaign Outline.md",
     "docs/docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "Introduction.md",
-    "202604~2.jpg",
-    "Pasted image 20260407195208.png",
-    "create a link.md",
-    "docs/site-lib/media/favicon.png",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg"
+    "create a link.md"
   ]
 }
