@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "bdcab7d7175f1751",
   "lastOpenFiles": [
-    "docs/index.html",
     "Introduction.md",
+    "index.md",
+    "docs/index.html",
     "vh-bohemia-1-culture/The Bohemian Lowlands.md",
     "docs/vh-bohemia-1-culture/the-bohemian-lowlands.html",
     "202604~2.jpg",
@@ -199,7 +200,6 @@
     "docs/docs/site-lib/scripts/graph-wasm.wasm",
     "docs/docs/site-lib/scripts/graph-wasm.js",
     "docs/docs/site-lib/scripts/graph-render-worker.js",
-    "docs/docs/site-lib/scripts",
     "docs/docs/pasted-image-20260407195208.png",
     "docs/docs/202604~2.jpg",
     "docs/docs/site-lib/media/favicon.png",
