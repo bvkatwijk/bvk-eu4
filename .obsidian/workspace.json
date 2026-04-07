@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TBL 1499.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "TBL 1499"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "TBL 1499.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for TBL 1499"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "TBL 1499.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from TBL 1499"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "TBL 1499.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of TBL 1499"
             }
           }
         ]
@@ -201,6 +201,12 @@
   },
   "active": "83cd485a70206224",
   "lastOpenFiles": [
+    "The Bohemian Lowlands.md",
+    "docs/pasted-image-20260407212810.png",
+    "docs/pasted-image-20260407212810.html",
+    "TBL 1499.md",
+    "docs/tbl-1499.html",
+    "Pasted image 20260407212810.png",
     "index.md",
     "docs/docs/site-lib/styles/theme.css",
     "docs/docs/site-lib/styles/obsidian.css",
@@ -210,11 +216,8 @@
     "docs/docs/site-lib/scripts/webpage.js",
     "docs/docs/site-lib/scripts/graph-wasm.wasm",
     "docs/docs/site-lib/scripts/graph-wasm.js",
-    "docs/docs/site-lib/scripts/graph-render-worker.js",
-    "docs/docs/site-lib/scripts",
     "docs/docs/pasted-image-20260407195208.png",
     "docs/docs/202604~2.jpg",
-    "The Bohemian Lowlands.md",
     "docs/docs/site-lib/media/favicon.png",
     "docs/docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -222,8 +225,6 @@
     "Pasted image 20260407195208.png",
     "202604~2.jpg",
     "docs/pasted-image-20260407195208.png",
-    "docs/202604~2.jpg",
-    "docs/docs/docs/site-lib/media/favicon.png",
     "create a link.md"
   ]
 }
