@@ -11,12 +11,14 @@
             "id": "bdcab7d7175f1751",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "202604~2.jpg"
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "202604~2"
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202604~2.jpg",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202604~2"
+              "title": "Backlinks for Introduction"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202604~2.jpg",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202604~2"
+              "title": "Outgoing links from Introduction"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202604~2.jpg",
+                "file": "Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202604~2"
+              "title": "Outline of Introduction"
             }
           }
         ]
@@ -186,6 +188,8 @@
   "lastOpenFiles": [
     "Introduction.md",
     "vh-bohemia-1-culture/The Bohemian Lowlands.md",
+    "docs/vh-bohemia-1-culture/the-bohemian-lowlands.html",
+    "202604~2.jpg",
     "docs/docs/site-lib/styles/obsidian.css",
     "docs/docs/site-lib/styles/main-styles.css",
     "docs/docs/site-lib/styles/global-variable-styles.css",
@@ -195,7 +199,6 @@
     "docs/docs/site-lib/scripts/graph-wasm.js",
     "docs/docs/site-lib/scripts/graph-render-worker.js",
     "docs/docs/site-lib/scripts",
-    "docs/docs/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
     "docs/docs/pasted-image-20260407195208.png",
     "docs/docs/202604~2.jpg",
     "docs/docs/site-lib/media/favicon.png",
@@ -205,7 +208,6 @@
     "docs/202604~2.jpg",
     "docs/docs/docs/site-lib/media/favicon.png",
     "docs/docs/docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "create a link.md"
   ]
 }
