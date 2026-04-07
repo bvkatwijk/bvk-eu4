@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\bvkat\\Documents\\GitHub\\bvk-eu4\\dist",
+    "exportPath": "C:\\Users\\bvkat\\Documents\\GitHub\\bvk-eu4\\docs",
     "filesToExport": [
       "all"
     ],
