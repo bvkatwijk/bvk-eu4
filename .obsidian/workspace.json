@@ -196,11 +196,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "f5f48468fade98c7",
   "lastOpenFiles": [
-    "Welcome.md"
+    "dist/welcome.html",
+    "Welcome.md",
+    "dist/site-lib/search-index.json",
+    "dist/site-lib/metadata.json",
+    "dist/site-lib/styles/obsidian.css",
+    "dist/site-lib/styles/main-styles.css",
+    "dist/site-lib/styles/global-variable-styles.css",
+    "dist/site-lib/scripts/webpage.js",
+    "dist/site-lib/scripts/graph-wasm.wasm",
+    "dist/site-lib/scripts/graph-wasm.js",
+    "dist/site-lib/scripts/graph-render-worker.js",
+    "dist/site-lib/html/file-tree-content.html",
+    "dist/site-lib/media/favicon.png",
+    "dist/site-lib/media/6155340132a851f6089e.svg",
+    "dist/site-lib/media/2308ab1944a6bfa5c5b8.svg"
   ]
 }
