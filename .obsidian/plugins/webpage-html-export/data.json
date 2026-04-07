@@ -169,7 +169,7 @@
         "selector": "head",
         "type": "end"
       },
-      "sourcePath": "",
+      "sourcePath": "index.html",
       "includePath": "site-lib/html/custom-head.html"
     },
     "documentOptions": {
@@ -213,7 +213,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "bvk-eu4",
+    "siteName": "https://bvankatwijk.nl/bvk-eu4/",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],
