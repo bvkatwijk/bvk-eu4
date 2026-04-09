@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TBL 1499 - Project Poland.md",
+                "file": "Campaigns/The Bohemian Lowlands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBL 1499 - Project Poland"
+              "title": "The Bohemian Lowlands"
             }
           }
         ],
@@ -201,16 +201,27 @@
   },
   "active": "5c7d4e0977f5d38f",
   "lastOpenFiles": [
-    "TBL 1475 - Ex-Duke Charles.md",
-    "Personal Union.md",
-    "The Bohemian Lowlands.md",
-    "TBL 1467 - Stealing Iberia.md",
-    "Casus Belli.md",
-    "Curia Controller.md",
+    "Campaigns/TBL 1499 - Project Poland.md",
+    "docs/attachments/205a61~1.jpg",
+    "docs/campaigns/tbl-1499-project-poland.html",
+    "Campaigns/TBL 1467 - Stealing Iberia.md",
+    "docs/campaigns/tbl-1467-stealing-iberia.html",
     "index.md",
-    "Burgundian Inheritance.md",
+    "Mechanics/Burgundian Inheritance.md",
+    "docs/attachments/205a61~1.html",
+    "docs/mechanics/burgundian-inheritance.html",
+    "Mechanics/Curia Controller.md",
+    "docs/mechanics/curia-controller.html",
+    "Campaigns/The Bohemian Lowlands.md",
+    "docs/campaigns/the-bohemian-lowlands.html",
+    "Mechanics/Personal Union.md",
+    "docs/mechanics/personal-union.html",
+    "Mechanics/Casus Belli.md",
+    "docs/mechanics/casus-belli.html",
+    "docs/mechanics",
+    "Campaigns/TBL 1475 - Ex-Duke Charles.md",
+    "docs/campaigns/tbl-1475-ex-duke-charles.html",
     "Attachments/205A61~1.jpg",
-    "TBL 1499 - Project Poland.md",
     "Attachments/202604~4 1.jpg",
     "Attachments/Pasted image 20260407195208.png",
     "Attachments/Pasted image 20260407212810.png",
@@ -219,17 +230,6 @@
     "docs/attachments/202604~4-1.jpg",
     "docs/attachments/202604~4.jpg",
     "docs/attachments/202604~2.jpg",
-    "docs/attachments/pasted-image-20260407195208.html",
-    "docs/attachments/202604~2.html",
-    "docs/attachments/pasted-image-20260407212810.html",
-    "docs/attachments/202604~4.html",
-    "docs/attachments/202604~4-1.html",
-    "docs/attachments",
-    "docs/tbl-1467-stealing-iberia.html",
-    "docs/tbl-1499-project-poland.html",
-    "Attachments/202604~2.jpg",
-    "Attachments",
-    "docs/pasted-image-20260407212810.html",
     "Introduction.md",
     "create a link.md"
   ]
