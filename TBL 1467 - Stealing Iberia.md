@@ -6,10 +6,9 @@ tags:
   - campaign
   - tbl
 date created: Thursday, April 9th 2026, 8:40:09 pm
-date modified: Thursday, April 9th 2026, 9:05:22 pm
+date modified: Thursday, April 9th 2026, 9:12:54 pm
 ---
-
-![[202604~4 1.jpg]]
+![[Attachments/202604~2.jpg]]
 
 The year is 1467. The game looks promising with many possible directions for us, but there will be some RNG involved and we are not very strong ourselves so we will need to wait for the right time to strike.
 

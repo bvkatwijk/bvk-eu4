@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tbl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,12 +214,18 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "91333705fbdaba7d",
+  "active": "6a473368eabe3eb6",
   "lastOpenFiles": [
+    "TBL 1499 - Project Poland.md",
+    "TBL 1467 - Stealing Iberia.md",
+    "The Bohemian Lowlands.md",
+    "index.md",
+    "Attachments/202604~4 1.jpg",
+    "Attachments/Pasted image 20260407195208.png",
+    "Attachments/Pasted image 20260407212810.png",
     "docs/attachments/pasted-image-20260407212810.png",
     "docs/attachments/pasted-image-20260407195208.png",
     "docs/attachments/202604~4-1.jpg",
-    "TBL 1467 - Stealing Iberia.md",
     "docs/attachments/202604~4.jpg",
     "docs/attachments/202604~2.jpg",
     "docs/attachments/pasted-image-20260407195208.html",
@@ -228,18 +235,11 @@
     "docs/attachments/202604~4-1.html",
     "docs/attachments",
     "docs/tbl-1467-stealing-iberia.html",
-    "TBL 1499 - Project Poland.md",
     "docs/tbl-1499-project-poland.html",
-    "The Bohemian Lowlands.md",
     "Attachments/202604~2.jpg",
     "Attachments/202604~4.jpg",
-    "Attachments/202604~4 1.jpg",
     "Attachments",
-    "index.md",
-    "Attachments/Pasted image 20260407212810.png",
-    "docs/pasted-image-20260407212810.png",
     "docs/pasted-image-20260407212810.html",
-    "docs/docs/pasted-image-20260407195208.png",
     "Introduction.md",
     "create a link.md"
   ]
