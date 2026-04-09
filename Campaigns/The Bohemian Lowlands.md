@@ -6,7 +6,7 @@ tags:
   - vh
   - tbl
 date created: Tuesday, April 7th 2026, 7:58:48 pm
-date modified: Thursday, April 9th 2026, 9:43:41 pm
+date modified: Thursday, April 9th 2026, 10:38:06 pm
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -20,6 +20,13 @@ Dutch True One-Culture starting as [[Bohemia]] on Very Hard difficulty. I'll be 
 ## Strategy
 
 I plan to use a diplomatic style with lots of subjects. [[Personal Union]]s early, using the Bohemian Mission Tree for [[Hungary]], [[Poland]] and [[Lithuania]] and hunting aggressively for additional free unions. Depending on lucky free unions, we can form nations to get missions to PU other nations. A Burgundian PU (or even direct inheritance) is very likely to succeed as well.
+
+# Birding
+
+I'll be using [[Birding]] for
+- planned RNG-based events that will impact the game in big ways
+- large failures in wars
+I'll indicate when I have done so.
 
 ## Ideas
 So far I'm thinking of picking this order of idea groups:

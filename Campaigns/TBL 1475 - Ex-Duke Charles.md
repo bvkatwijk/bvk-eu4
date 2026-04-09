@@ -6,7 +6,7 @@ tags:
   - tbl
   - vh
 date created: Thursday, April 9th 2026, 9:30:02 pm
-date modified: Thursday, April 9th 2026, 9:49:42 pm
+date modified: Thursday, April 9th 2026, 10:50:09 pm
 ---
 ![[205A61~1.jpg]]
 
@@ -22,3 +22,6 @@ As part of the mechanics around the [[Burgundian Inheritance|BI]], [[Austria]] w
 
 # Economy
 Still terrible, but that is within expectations. The majority of our wealth is taken from winning wars. Hopefully we can take the [[Gold Mine]] from [[Serbia]]'s Kosovo in a few years, but we do not currently have a [[Casus Belli|CB]] yet. I've marked a northern province of them as a vital interest, hoping that [[Hungary]] will fabricate a claim for me.
+
+# Next
+- [[TBL 1499 - Project Poland]]

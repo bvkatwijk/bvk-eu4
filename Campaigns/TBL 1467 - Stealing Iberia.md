@@ -6,7 +6,7 @@ tags:
   - campaign
   - tbl
 date created: Thursday, April 9th 2026, 8:40:09 pm
-date modified: Thursday, April 9th 2026, 9:12:54 pm
+date modified: Thursday, April 9th 2026, 10:49:50 pm
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -22,4 +22,7 @@ We randomly got a PU over Wolgast, with may prove to be a burden later occupying
 
 Aragon is 15 years old and without an heir, and since we are [[Trastamara Dynasty]] we can use Claim Throne and force the union. Forcing a union over the Senior Partner will transfer Junior Partners as well, and [[Castille]] is the Junior Partner under [[Aragon]]. So is Navarra, but I will ditch them, perhaps as part of the peace deal, or just by abandoning the union after the war.
 
-Burgundy will aid us, and likely England too if we curry favors with them.
+Burgundy will aid us, and likely England too if we curry favours with them.
+
+# Next
+- [[TBL 1475 - Ex-Duke Charles]]
