@@ -6,7 +6,7 @@ tags:
   - campaign
   - tbl
 date created: Tuesday, April 7th 2026, 9:14:41 pm
-date modified: Thursday, April 9th 2026, 9:08:54 pm
+date modified: Friday, April 10th 2026, 11:07:34 am
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -26,4 +26,7 @@ The Ottomans have a strong game, but I had feared that they would be a lot stron
 
 I've matched their Discipline by hiring an advisor, and was surprised that the Morale modifiers we picked up along the way is enough to outclass the Ottomans. Since the Ottomans are the #2 Great Power I decide to activate my Golden Age to boost morale further and make fights more likely to end up in my favour.
 
-I take Improved War Taxes as an Age Bonus since I suspect that this war will take some time and I don't want to bleed money too heavily.
+I take Improved War Taxes as an Age Bonus since I suspect that this war will take some time and I don't want to bleed money too heavily. Their [[Quantity Ideas]] means that we will have to cut through a lot of troops, but hopefully by striking now we can make the Ottomans collapse before they grow too strong to deal with.
+
+# Next
+- [[TBL 1503 - The First Crusade]]
