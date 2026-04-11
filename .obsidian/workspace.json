@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Ideas or To Do.md",
+                "file": "Campaigns/TBL - The Bohemian Lowlands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas or To Do"
+              "title": "TBL - The Bohemian Lowlands"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Ideas or To Do.md",
+                "file": "Campaigns/TBL - The Bohemian Lowlands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ideas or To Do"
+              "title": "Backlinks for TBL - The Bohemian Lowlands"
             }
           },
           {
@@ -201,6 +201,7 @@
   },
   "active": "d23bcecb03de50a5",
   "lastOpenFiles": [
+    "Other/Ideas or To Do.md",
     "Tags/Lithuania.md",
     "docs/tags/lithuania.html",
     "Mechanics/Diplomatic annexation cost.md",
@@ -230,7 +231,6 @@
     "Campaigns/TBL 1503 - The First Crusade.md",
     "Tactics/Combat.md",
     "docs/tactics/combat.html",
-    "Other/Ideas or To Do.md",
     "Tags/Bohemia.md",
     "Tactics/Birding.md",
     "Tags/Aragon.md",
