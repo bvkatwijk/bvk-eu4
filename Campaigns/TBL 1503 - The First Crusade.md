@@ -2,11 +2,11 @@
 aliases: 
 tags: 
 date created: Friday, April 10th 2026, 10:49:49 am
-date modified: Saturday, April 11th 2026, 12:51:53 pm
+date modified: Saturday, April 11th 2026, 1:23:45 pm
 ---
 ![[204CF2~1.jpg]]
 
-The war against the [[Ottomans]] is going quite well. 
+The war against the [[Ottomans]] is going quite well, we are looking at achieving a solid victory. It has costed us, but it will set up expansion into the east later, so it is definitely worth it.
 
 # Establishing Control
 

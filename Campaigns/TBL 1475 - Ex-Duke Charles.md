@@ -6,9 +6,11 @@ tags:
   - tbl
   - vh
 date created: Thursday, April 9th 2026, 9:30:02 pm
-date modified: Thursday, April 9th 2026, 10:50:09 pm
+date modified: Saturday, April 11th 2026, 1:24:11 pm
 ---
 ![[205A61~1.jpg]]
+
+# Status
 
 It's 1475, and Duke Charles of [[Burgundy]] just left us his entire country, for which we are eternally grateful.
 # Diplomacy

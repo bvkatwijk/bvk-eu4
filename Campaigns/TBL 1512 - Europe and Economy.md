@@ -6,10 +6,11 @@ tags:
   - tbl
   - vh
 date created: Saturday, April 11th 2026, 12:49:33 pm
-date modified: Saturday, April 11th 2026, 1:19:04 pm
+date modified: Saturday, April 11th 2026, 1:29:29 pm
 ---
 ![[202D38~1.jpg]]
 
+# Status
 Now that we can't do much in the east, we make some plays in Europe. Vladimir is on the throne, but our new heir is quite bad so we disinherit him, hoping for a better one. This may also allow us to get a different dynasty, perhaps a [[Russia]]n one.
 
 # First Papal War
@@ -17,4 +18,9 @@ After releasing [[Bulgaria]], we ally [[Florence]] and call him into a war with 
 
 # Naples
 A small upside is that [[Naples]] got [[Excommunication|Excommunicated]], meaning that [[Terracina]] gives us the ability to take provinces from [[Naples]] at 50% [[Aggressive Expansion|AE]]. [[Austria]] is allied to [[Naples]] which is unfortunate since we would like a separate [[Tirol]] [[Reconquest]] war later, but since my subject count is already very high we postpone that until later.
-[[Florence]] is allied to [[Naples]], so we drag him into a war with [[Serbia]] first for their [[Kosovo]] [[Gold Mine]].
+[[Florence]] is allied to [[Naples]], so we drag him into a war with [[Serbia]] first for their [[Kosovo]] [[Gold Mine]]. This way, we don't have to fight him, instead we can keep our [[Alliance]].
+Both wars are very easy.
+
+# Brandenburg
+
+Our missions gave us a [[Subjugation CB]] on [[Brandenburg]], which expires in one year. Subjugating him would give a lot of [[Aggressive Expansion|AE]] so I'm not sure whether to actually take them. Perhaps we ally his neighbours and give away as much of his land as possible, giving us less [[Aggressive Expansion|AE]] and we can [[Reconquest]] it later.

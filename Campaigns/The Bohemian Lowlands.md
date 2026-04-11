@@ -19,7 +19,7 @@ Dutch True One-Culture starting as [[Bohemia]] on Very Hard difficulty. I'll be 
 3. [[TBL 1499 - Project Poland]]
 ## Strategy
 
-I plan to use a diplomatic style with lots of subjects. [[Personal Union]]s early, using the Bohemian Mission Tree for [[Hungary]], [[Poland]] and [[Lithuania]] and hunting aggressively for additional free unions. Depending on lucky free unions, we can form nations to get missions to [[Personal Union|PU]] other nations. A Burgundian [[Personal Union|PU]] (or even direct inheritance) is very likely to succeed as well.
+I plan to use a diplomatic style with lots of subjects. [[Personal Union]]s early, using the [[Bohemia|Bohemian]] Mission Tree for [[Hungary]], [[Poland]] and [[Lithuania]] and hunting aggressively for additional free unions. Depending on lucky free unions, we can form nations to get missions to [[Personal Union|PU]] other nations. A Burgundian [[Personal Union|PU]] (or even direct inheritance) is very likely to succeed as well.
 
 # Birding
 
