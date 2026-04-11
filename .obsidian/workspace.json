@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbd3f0a30f78122",
+        "id": "8ad5dcb65a72d3b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6edc78bdd251ae0f",
+            "id": "3542cb3bc6c67962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/The Bohemian Lowlands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Bohemian Lowlands"
-            }
-          },
-          {
-            "id": "e24b361a83734cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/TBL 1499 - Project Poland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TBL 1499 - Project Poland"
-            }
-          },
-          {
-            "id": "8b227ea763f0353b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/TBL 1512.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TBL 1512"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,52 +181,52 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8b227ea763f0353b",
+  "active": "3542cb3bc6c67962",
   "lastOpenFiles": [
-    "Florence.md",
+    "Other/Core-Creation Cost Reduction.md",
+    "docs/attachments/202d38~1.jpg",
+    "docs/attachments/200c8a~1.jpg",
+    "docs/other/core-creation-cost-reduction.html",
+    "Mechanics/Personal Union.md",
+    "docs/attachments/202d38~1.html",
+    "docs/attachments/200c8a~1.html",
+    "Campaigns/TBL 1467 - Stealing Iberia.md",
+    "Other/Excommunication.md",
+    "docs/other/excommunication.html",
     "Campaigns/TBL 1512.md",
-    "Naples.md",
+    "docs/campaigns/tbl-1512.html",
+    "Other/Russia.md",
+    "docs/other/russia.html",
+    "Other/Kosovo.md",
+    "docs/other/kosovo.html",
+    "Campaigns/TBL 1499 - Project Poland.md",
+    "Other/Reconquest.md",
+    "docs/other/reconquest.html",
+    "Other/Serbia.md",
+    "docs/other/serbia.html",
+    "Other/Terracina.md",
+    "docs/other/terracina.html",
+    "Other/Tirol.md",
+    "Other/Naples.md",
+    "Ideas or To Do.md",
+    "Other/Gold Mine.md",
+    "Other/Florence.md",
+    "Other/Bulgaria.md",
+    "Other/Austria.md",
+    "Campaigns/The Bohemian Lowlands.md",
     "Campaigns/TBL 1503 - The First Crusade.md",
+    "Campaigns/TBL 1475 - Ex-Duke Charles.md",
+    "index.md",
     "Attachments/202D38~1.jpg",
     "Attachments/200C8A~1.jpg",
-    "Campaigns/TBL 1499 - Project Poland.md",
-    "Mechanics/Personal Union.md",
     "Tactics/Perma Curia Strat.md",
     "docs/attachments/203507~1.jpg",
-    "Core-Creation Cost Reduction.md",
     "docs/attachments/20804b~1.jpg",
     "docs/attachments/204cf2~1.jpg",
-    "docs/core-creation-cost-reduction.html",
     "Tactics/Zero Rebels.md",
-    "docs/tactics/zero-rebels.html",
-    "Ideas or To Do.md",
-    "docs/ideas-or-to-do.html",
-    "docs/attachments/204cf2~1.html",
-    "docs/attachments/203507~1.html",
     "Mechanics/Aggressive Expansion.md",
-    "docs/attachments/20804b~1.html",
-    "docs/mechanics/aggressive-expansion.html",
-    "docs/campaigns/tbl-1503-the-first-crusade.html",
     "Attachments/20804B~1.jpg",
     "Attachments/203507~1.jpg",
-    "Attachments/204CF2~1.jpg",
-    "CCR.md",
-    "Campaigns/TBL 1475 - Ex-Duke Charles.md",
-    "Other/Roma.md",
-    "docs/other/roma.html",
-    "Other/Lambdaxx.md",
-    "docs/other/lambdaxx.html",
-    "Mechanics/Papal Influence.md",
-    "Campaigns/The Bohemian Lowlands.md",
-    "Tactics/Birding.md",
-    "Campaigns/TBL 1467 - Stealing Iberia.md",
-    "Mechanics/Curia Controller.md",
-    "index.md",
-    "docs/attachments/205a61~1.jpg",
-    "Mechanics/Burgundian Inheritance.md",
-    "Mechanics/Casus Belli.md",
-    "Attachments/205A61~1.jpg",
-    "Introduction.md",
-    "create a link.md"
+    "Attachments/204CF2~1.jpg"
   ]
 }
