@@ -42,10 +42,10 @@ Sourced from [[Lambdaxx]]'s [video](https://www.youtube.com/watch?v=CrEzDjL80Xo&
 	- Accept [[Roma|Rome]]'s Papal Rebel Demands
 
 # Explanation
-The crucial step is to create a [[Papal States]] that is not [[Catholic]]. Many traditional ways of (re)creating non-[[Catholic]] countries do not work for the [[Papal States]], but it seems that accepting Rebel Demands still allow the Pope to have other religions.
+The crucial step is to create a [[Papal States]] that is not [[Catholic]]. Many traditional ways of (re)creating non-[[Catholic]] countries do not work for the [[Papal States]], but it seems that accepting Rebel Demands still allow the [[Pope]] to have other religions.
 
 The religion of a released country depends in some way on the religion of the most recently gained province. Therefore, the strategy is to feed the [[Papal States]] a non-[[Catholic]] province, then re-spawning them using Rebels.
 
 It is likely that development also plays a role, but it is not clear to which extend exactly.
 
-Using [[Birding]], the war can be kept short by reloading if the old Pope does not die.
+Using [[Birding]], the war can be kept short by reloading if the old [[Pope]] does not die.

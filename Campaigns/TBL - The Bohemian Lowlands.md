@@ -32,18 +32,18 @@ We will become Emperor mainly for the increased manpower, to be able to execute 
 
 The run will involve many tag switches to stack certain modifiers such as [[Administrative efficiency]], [[Diplomatic annexation cost]] reduction, [[Culture]] conversion cost reduction.
 
-1. Austria
-2. Croatia
+1. [[Austria]]
+2. [[Croatia]]
 3. [[Sardinia-Piedmont]]
-4. Siam
-5. Kongo
+4. [[Siam]]
+5. [[Kongo]]
 # Birding
 
 I'll be using [[Birding]] for
 - planned RNG-based events that will impact the game in big ways
 - large failures in wars
 - [[Perma Curia Strat]]
-I don't usually Bird for ruler stats or PU hunting. Maybe for [[Russia]] if the opportunity presents itself.
+I don't usually Bird for ruler stats or [[Personal Union|PU]] hunting. Maybe for [[Russia]] if the opportunity presents itself.
 
 ## Ideas
 So far I'm thinking of picking this order of idea groups:

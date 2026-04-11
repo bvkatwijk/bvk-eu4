@@ -35,7 +35,7 @@ We want to be able to have good ways to take more Ottoman land in the future, so
 
 # Papal Control
 
-Now would be a great time to set up the [[Perma Curia Strat]] since the Pope is 80 years old. We ally [[Florence]] to feed them most of the land that we don't need to avoid [[Aggressive Expansion|AE]]. We have released [[Bulgaria]] which is a non-[[Catholic]] subject that we will use to execute the strategy.
+Now would be a great time to set up the [[Perma Curia Strat]] since the [[Pope]] is 80 years old. We ally [[Florence]] to feed them most of the land that we don't need to avoid [[Aggressive Expansion|AE]]. We have released [[Bulgaria]] which is a non-[[Catholic]] subject that we will use to execute the strategy.
 But... unfortunately we have a regency council, so we cannot actually declare the war! Five years of non-war remain. Maybe some time to focus on setting up the next few plays. And maybe it will not be calm years, because...
 
 # Dutch Revolt
