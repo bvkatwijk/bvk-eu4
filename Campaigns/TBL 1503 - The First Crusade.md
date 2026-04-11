@@ -26,7 +26,7 @@ So far we are 500 ducats in debt, which is a lot less than I expected.
 
 # Sieging Anatolia
 
-We will have no way to cross into Anatolia because the Ottoman fleet is guarding the strait crossing. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the Ottomans to take back their capital.
+We will have no way to cross into Anatolia because the massive Ottoman fleet is guarding the strait crossing. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the Ottomans to take back their capital.
 
 # Peace Deal
 We want to be able to have good ways to take more Ottoman land in the future, so want to take provinces that allow us to release [[Bulgaria]] and [[Byzantium]] to use their Reconquest [[Casus Belli|CB]]s. We take their province, max money and war reparations to cripple their economy as much as possible.
