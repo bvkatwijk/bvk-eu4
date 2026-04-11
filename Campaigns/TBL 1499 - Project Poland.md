@@ -15,12 +15,12 @@ date modified: Friday, April 10th 2026, 11:07:34 am
 It's now 1499 and the Age of Reformation is approaching, changing the game in many ways. The religious game will start, the Dutch may revolt, and we will have to start expanding to the east and south.
 
 ## PU Poland + Lithuania
-I've just used the Polish Diplomacy mission to [[Personal Union|PU]] Poland and Lithuania. The war turned out to be very easy. Poland and Lithuania marched into my war ally [[Sweden]] to occupy them, leaving their country open for the taking, and I could reach 60% war score using only sieging.
+I've just used the Polish Diplomacy mission to [[Personal Union|PU]] [[Poland]] and [[Lithuania]]. The war turned out to be very easy. [[Poland]] and [[Lithuania]] marched into my war ally [[Sweden]] to occupy them, leaving their country open for the taking, and I could reach 60% war score using only sieging.
 
 During peacetime, we start annexing Styria and enable the Noble Integration Policy privilege for an additional 5% discount.
 
 ## Ottomans
-The Ottomans have a strong game, but I had feared that they would be a lot stronger by now. Completing the [[Bohemia|Bohemian]] Commonwealth mission requires kicking the Ottomans completely out of the Balkans region, so I better get started soon. Poland and Lithuania are loyal yet still have their troops at pre-union levels, so perhaps the right time to strike is now.
+The Ottomans have a strong game, but I had feared that they would be a lot stronger by now. Completing the [[Bohemia|Bohemian]] Commonwealth mission requires kicking the Ottomans completely out of the Balkans region, so I better get started soon. [[Poland]] and [[Lithuania]] are loyal yet still have their troops at pre-union levels, so perhaps the right time to strike is now.
 
 ![[Pasted image 20260407212810.png]]
 

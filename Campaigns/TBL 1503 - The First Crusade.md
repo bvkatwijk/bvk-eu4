@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Friday, April 10th 2026, 10:49:49 am
-date modified: Saturday, April 11th 2026, 1:23:45 pm
+date modified: Saturday, April 11th 2026, 2:56:20 pm
 ---
 ![[204CF2~1.jpg]]
 
@@ -43,3 +43,6 @@ But... unfortunately we have a regency council, so we cannot actually declare th
 Since 1500 has passed, the [[Dutch Revolts]] disaster has started ticking up. By boosting our stability to +2 and accepting both [[Flemish] and [[Dutch]] [[Culture]], we were able to stop the disaster from progressing. However, after a few years some provinces turned [[Protestant]] which again gives the disaster progress without us being able to convert them back, meaning that the disaster will fire.
 
 We end up with 50K separatists rebels which were not too hard to beat. Every now and them we may have rebels for the next 20 years. I expect that the rebels will be weak enough so that we do not have to release Dutch countries.
+
+# Next
+- [[TBL 1512 - Europe and Economy]]

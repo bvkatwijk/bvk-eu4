@@ -9,4 +9,4 @@ date modified: Saturday, April 11th 2026, 2:52:42 pm
 This site contains my campaign notes for Europa Universalis 4. I am documenting some strategies and tactics that I use.
 
 # Campaigns
-- [[The Bohemian Lowlands]]
+- [[TBL - The Bohemian Lowlands]]
