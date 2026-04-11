@@ -12,7 +12,7 @@ The war against the [[Ottomans]] is going quite well, we are looking at achievin
 
 The first phase of the war is to somewhat reduce their troop quantity by picking a few favourable fights, and perhaps [[Stackwipe]] a few of their squads.
 
-Some of my allies focused on [[Tunis]], which allowed me to peace them out after two years. This turned out to be a mistake since Tunis was the [[Crusade]] target, so our side lost useful combat modifiers when peacing them out early. But I did not replay this mistake since my allies would now be free to help in the Balkans.
+Some of my allies focused on [[Tunis]], which allowed me to peace them out after two years. This turned out to be a mistake since Tunis was the [[Crusade]] target, so our side lost useful [[Combat]] modifiers when peacing them out early. But I did not replay this mistake since my allies would now be free to help in the Balkans.
 
 By playing patiently we are able to lure the enemy into defensive fights, which turns it into our favour and helps us to reduce their military influence in the area.
 
@@ -35,7 +35,7 @@ We want to be able to have good ways to take more Ottoman land in the future, so
 
 # Papal Control
 
-Now would be a great time to set up the [[Perma Curia Strat]] since the Pope is 80 years old. We ally [[Florence]] to feed them most of the land that we don't need to avoid [[Aggressive Expansion|AE]]. We have released [[Bulgaria]] which is a non-Catholic subject that we will use to execute the strategy.
+Now would be a great time to set up the [[Perma Curia Strat]] since the Pope is 80 years old. We ally [[Florence]] to feed them most of the land that we don't need to avoid [[Aggressive Expansion|AE]]. We have released [[Bulgaria]] which is a non-[[Catholic]] subject that we will use to execute the strategy.
 But... unfortunately we have a regency council, so we cannot actually declare the war! Five years of non-war remain. Maybe some time to focus on setting up the next few plays. And maybe it will not be calm years, because...
 
 # Dutch Revolt

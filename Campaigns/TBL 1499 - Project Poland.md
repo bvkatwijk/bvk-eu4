@@ -24,7 +24,7 @@ The Ottomans have a strong game, but I had feared that they would be a lot stron
 
 ![[Pasted image 20260407212810.png]]
 
-I've matched their [[Discipline]] by hiring an advisor, and was surprised that the [[Morale of Armies|Morale]] modifiers we picked up along the way is enough to outclass the Ottomans. Since the Ottomans are the #2 Great Power I decide to activate my Golden Age to boost [[Morale of Armies|Morale]] further and make fights more likely to end up in my favour.
+I've matched their [[Discipline]] by hiring an advisor, and was surprised that the [[Morale of armies|Morale]] modifiers we picked up along the way is enough to outclass the Ottomans. Since the Ottomans are the #2 Great Power I decide to activate my Golden Age to boost [[Morale of armies|Morale]] further and make fights more likely to end up in my favour.
 
 I take Improved War Taxes as an Age Bonus since I suspect that this war will take some time and I don't want to bleed money too heavily. Their [[Quantity Ideas]] means that we will have to cut through a lot of troops, but hopefully by striking now we can make the Ottomans collapse before they grow too strong to deal with.
 

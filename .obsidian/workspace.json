@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0576edac970b4e0",
+        "id": "3313749e0f7d8972",
         "type": "tabs",
         "children": [
           {
-            "id": "ae07dc6704585958",
+            "id": "a0134c58ac84d6c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Aragon.md",
+                "file": "Tags/Austria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aragon"
+              "title": "Austria"
             }
           },
           {
-            "id": "c3843b03db1235fe",
+            "id": "d23bcecb03de50a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Russia.md",
+                "file": "Other/Ideas or To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Russia"
+              "title": "Ideas or To Do"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Morale of armies",
+                "query": "Moral of ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Russia.md",
+                "file": "Other/Ideas or To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Russia"
+              "title": "Backlinks for Ideas or To Do"
             }
           },
           {
@@ -199,44 +199,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "c3843b03db1235fe",
+  "active": "d23bcecb03de50a5",
   "lastOpenFiles": [
-    "Tags/Serbia.md",
-    "docs/tags/serbia.html",
-    "Tags/Naples.md",
-    "docs/tags/naples.html",
-    "Tags/Florence.md",
-    "docs/tags/florence.html",
-    "Tags/Bulgaria.md",
-    "docs/tags/bulgaria.html",
-    "Tags/Brandenburg.md",
-    "docs/tags/brandenburg.html",
-    "Tags/Papal States.md",
-    "docs/tags/papal-states.html",
-    "Tags/Burgundy.md",
-    "docs/tags/burgundy.html",
-    "Tags/Hungary.md",
-    "docs/tags/hungary.html",
-    "Tags/Sweden.md",
-    "docs/tags/sweden.html",
-    "Tags/Castille.md",
-    "docs/tags/castille.html",
-    "Tags/Aragon.md",
-    "Tags/Bohemia.md",
-    "Tags/Russia.md",
-    "Tags/Byzantium.md",
-    "Tags/Saxony.md",
-    "Tags/England.md",
-    "Tags/Styria.md",
-    "Tags/Tirol.md",
-    "Mechanics/Formable Tag.md",
-    "Mechanics/Discipline.md",
+    "Tags/Lithuania.md",
+    "docs/tags/lithuania.html",
+    "Mechanics/Diplomatic annexation cost.md",
+    "docs/mechanics/diplomatic-annexation-cost.html",
+    "Mechanics/Administrative efficiency.md",
+    "docs/mechanics/administrative-efficiency.html",
     "Campaigns/TBL 1499 - Project Poland.md",
-    "Tags/Siam.md",
-    "Mechanics/Subjugation CB.md",
-    "Mechanics/Morale of Armies.md",
-    "Tags/Sardinia-Piedmont.md",
+    "Mechanics/German Regional Tag.md",
+    "docs/mechanics/german-regional-tag.html",
+    "Mechanics/Personal Union.md",
+    "Tags/Poland.md",
+    "docs/tags/poland.html",
+    "Tags/Lan Xang.md",
+    "docs/tags/lan-xang.html",
+    "Other/Catholic.md",
+    "docs/other/catholic.html",
+    "Tags/Kongo.md",
+    "docs/tags/kongo.html",
     "Tags/Austria.md",
+    "Tags/Sardinia-Piedmont.md",
+    "Tactics/Perma Curia Strat.md",
+    "Campaigns/TBL 1488 - Mary Falls.md",
+    "Tags/Croatia.md",
+    "docs/tags/croatia.html",
+    "Mechanics/Morale of armies.md",
+    "Mechanics/Discipline.md",
+    "Campaigns/TBL 1503 - The First Crusade.md",
+    "Tactics/Combat.md",
+    "docs/tactics/combat.html",
+    "Other/Ideas or To Do.md",
+    "Tags/Bohemia.md",
+    "Tactics/Birding.md",
+    "Tags/Aragon.md",
+    "Tags/Russia.md",
+    "Tags/Serbia.md",
+    "Tags/Naples.md",
     "docs/attachments/207819~1.jpg",
     "Attachments/205A61~1.jpg",
     "Attachments/207819~1.jpg",

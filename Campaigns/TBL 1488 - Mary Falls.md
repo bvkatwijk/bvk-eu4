@@ -20,7 +20,7 @@ The [[Aggressive Expansion|AE]] is quite bad and I postpone taking [[Brandenburg
 
 # Expansion Plans
 
-In the south I see Algiers which may be a suitable non-Catholic subject later on. In two years, we will fight [[Austria]] with [[Reconquest]] [[Casus Belli|CB]], restoring all cores of [[Styria]], and taking a single province containing a core of [[Tirol]].
+In the south I see Algiers which may be a suitable non-[[Catholic]] subject later on. In two years, we will fight [[Austria]] with [[Reconquest]] [[Casus Belli|CB]], restoring all cores of [[Styria]], and taking a single province containing a core of [[Tirol]].
 
 [[Poland]] took the union over [[Lithuania]], which means our mission to [[Personal Union|PU]] [[Poland]] will grant us [[Lithuania]] as well. Their numbers are high but hopefully we can win by calling in some allies.
 
