@@ -16,7 +16,7 @@ The year is 1467. The game looks promising with many possible directions for us,
 
 Aside from obtaining the [[Personal Union]] over [[Hungary]] using the [[Bohemian]] Mission The Hungarian Succession, we are actively hunting for more PUs. Savoy was looking promising but they recently got an heir, and since we don't have [[Diplomatic Ideas]] yet we are stuck with the extra relation.
 
-We randomly got a PU over Wolgast, with may prove to be a burden later occupying a precious relation slot. For now I'm keeping them around since they may be useful to feed provinces in the Scandinavian, Baltic or Russian regions.
+We randomly got a [[Personal Union|PU]] over Wolgast, with may prove to be a burden later occupying a precious relation slot. For now I'm keeping them around since they may be useful to feed provinces in the Scandinavian, Baltic or Russian regions.
 
 [[Sweden]] does not have an heir, but at 25 years old their ruler is still likely to get an heir, so I do not expect to get my dynasty on their throne at the moment.
 
