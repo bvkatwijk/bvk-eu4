@@ -1,9 +1,10 @@
 ---
 aliases:
   - PU
+  - PUs
 tags:
 date created: Thursday, April 9th 2026, 9:43:42 pm
-date modified: Friday, April 10th 2026, 8:39:55 pm
+date modified: Saturday, April 11th 2026, 3:05:49 pm
 ---
 A subject type tied to a ruler. Only applicable for Christian nations. If the senior partner dies, the junior partner can break free under certain conditions.
 
