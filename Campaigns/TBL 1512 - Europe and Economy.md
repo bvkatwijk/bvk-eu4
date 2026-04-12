@@ -6,7 +6,7 @@ tags:
   - tbl
   - vh
 date created: Saturday, April 11th 2026, 12:49:33 pm
-date modified: Sunday, April 12th 2026, 12:00:13 am
+date modified: Sunday, April 12th 2026, 11:17:35 am
 ---
 ![[202D38~1.jpg]]
 
@@ -25,10 +25,10 @@ I grant [[Napoli]] to [[Byzantium]] (which I released as a subject just before t
 
 # Brandenburg
 
-Our missions gave us a [[Subjugation CB]] on [[Brandenburg]], which expires in one year. Since he is so big, subjugating him would give way too much [[Aggressive Expansion|AE]] so I'm going to fulfil the mission by just grabbing four provinces later.
+Our missions gave us a [[Subjugation CB]] on [[Brandenburg]], which expires in one year. Since he is so big, subjugating him would give way too much [[Aggressive Expansion|AE]] (even if we give away some provinces to allies) so I'm going to fulfil the mission by just grabbing four provinces later.
 
 # Papal Control
 
 ![[20F228~1.jpg]]
 
-After many, many birds I get [[Curia Controller|Papal Controller]]. [[Terracina]] is converted so we are set up for the perma strat.
+After many, many birds I get [[Curia Controller|Papal Controller]]. [[Terracina]] is converted so we are set up for the perma strat. Attacking Venice would drag in the [[Papal States]] so we could sidestep the truce this way, and their total war score is less than 50% so we can full annex them even as a non-cobelligerent.

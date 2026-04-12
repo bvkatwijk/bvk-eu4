@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+  - stackwipe
+tags:
 date created: Saturday, April 11th 2026, 5:45:01 pm
-date modified: Saturday, April 11th 2026, 5:52:27 pm
+date modified: Sunday, April 12th 2026, 11:21:01 am
 ---
 # Army Composition
 
@@ -19,3 +20,9 @@ Rule of thumb is to at least match the opponents' [[Discipline]], and early game
 # Black Flag Ambush
 
 An AI ignores your Exiled armies. If you exile your armies, you can lure the enemy into your territory and surprise them. This works well when you have a Mountain Fort, giving them the Attack Penalties. To exile your troops, station your troops in a non-ally country where you have Military Access, then declare the war.
+
+# Stackwipe
+
+Reducing an army's Morale to zero within 12 days of combat will delete the entire army. This requires inflicting a lot of morale damage, done by picking the right battle, having proper composition, superior quality.
+
+Also outnumbering 10 to 1 will instantly cause a stackwipe.

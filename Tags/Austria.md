@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Saturday, April 11th 2026, 1:18:45 pm
-date modified: Saturday, April 11th 2026, 5:14:22 pm
+date modified: Sunday, April 12th 2026, 11:23:10 am
 ---
 [[Formable Tag]], [[German Regional Tag]]
 # National Ideas
