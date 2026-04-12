@@ -6,7 +6,7 @@ tags:
   - tbl
   - vh
 date created: Saturday, April 11th 2026, 12:49:33 pm
-date modified: Sunday, April 12th 2026, 11:17:35 am
+date modified: Sunday, April 12th 2026, 3:05:35 pm
 ---
 ![[202D38~1.jpg]]
 
@@ -31,4 +31,14 @@ Our missions gave us a [[Subjugation CB]] on [[Brandenburg]], which expires in o
 
 ![[20F228~1.jpg]]
 
-After many, many birds I get [[Curia Controller|Papal Controller]]. [[Terracina]] is converted so we are set up for the perma strat. Attacking Venice would drag in the [[Papal States]] so we could sidestep the truce this way, and their total war score is less than 50% so we can full annex them even as a non-cobelligerent.
+After many, many birds I get [[Curia Controller|Papal Controller]]. [[Terracina]] is converted so we are set up for the perma strat. We attack Venice who is allied to the [[Papal States]] so that we can make him release Avignon reducing his size. This way we get less [[Aggressive Expansion|AE]] later when we need to full annex him. 
+
+# Plans for Trade
+We are approaching mid-game where Trade will be king. We take a trade province from Venice to start gaining Trade Power in the Venetian Trade Node. When we will gain more land in the east, we will be setting up Trade Companies, gaining Merchants and steering trade towards Venice, giving us massive profits which we will need to fund our plans.
+
+# Plans for Russia
+
+Since Muscovy has rivalled us, the chance of [[Personal Union|PU]]-ing them is small. Novgorod is reduced to one province and I set up a play to diplo-vassalize them. This allows a huge [[Reconquest]] and gives me a subject to feed Swedish land to later in the campaign. Novgorod has +1% Missionary Strength in their national ideas which is nice but the massive military capabilities of a Russian subject would be a lot better. Perhaps we can feed Novgorod everything required to form Russia, make them break free, let them form Russia, then subjugate them again?
+
+
+The second Ottoman war is coming up. He no longer has Tunis as an ally

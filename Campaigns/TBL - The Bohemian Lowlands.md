@@ -6,7 +6,7 @@ tags:
   - vh
   - tbl
 date created: Tuesday, April 7th 2026, 7:58:48 pm
-date modified: Sunday, April 12th 2026, 11:13:21 am
+date modified: Sunday, April 12th 2026, 2:54:42 pm
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -16,7 +16,10 @@ Dutch True One-Culture starting as [[Bohemia]] on Very Hard difficulty. I'll be 
 
 1. [[TBL 1467 - Stealing Iberia]]
 2. [[TBL 1475 - Ex-Duke Charles]]
-3. [[TBL 1499 - Project Poland]]
+3. [[TBL 1488 - Mary Falls]]
+4. [[TBL 1499 - Project Poland]]
+5. [[TBL 1503 - The First Crusade]]
+6. [[TBL 1512 - Europe and Economy]]
 ## Strategy
 
 I plan to use a diplomatic style with lots of subjects. [[Personal Union]]s early, using the [[Bohemia|Bohemian]] Mission Tree for [[Hungary]], [[Poland]] and [[Lithuania]] and hunting aggressively for additional free unions. Depending on lucky free unions, we can form nations to get missions to [[Personal Union|PU]] other nations. A Burgundian [[Personal Union|PU]] (or even direct inheritance) is very likely to succeed as well.

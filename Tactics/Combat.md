@@ -23,6 +23,6 @@ An AI ignores your Exiled armies. If you exile your armies, you can lure the ene
 
 # Stackwipe
 
-Reducing an army's Morale to zero within 12 days of combat will delete the entire army. This requires inflicting a lot of morale damage, done by picking the right battle, having proper composition, superior quality.
+Reducing an army's [[Morale of armies|Morale]] to zero within 12 days of combat will delete the entire army. This requires inflicting a lot of [[Morale of armies|Morale]] damage, done by picking the right battle, having proper composition, superior quality.
 
 Also outnumbering 10 to 1 will instantly cause a stackwipe.

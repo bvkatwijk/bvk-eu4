@@ -32,7 +32,7 @@ date modified: Sunday, April 12th 2026, 11:21:57 am
 
 [![Cavalry combat ability.png](https://eu4.paradoxwikis.com/images/thumb/d/dc/Cavalry_combat_ability.png/28px-Cavalry_combat_ability.png)](https://eu4.paradoxwikis.com/File:Cavalry_combat_ability.png) **Advanced Elephant Warfare**
 
-**+15%** Cavalry combat ability
+**+15%** Cavalry [[Combat]] ability
 
 **+1** Cavalry fire
 
