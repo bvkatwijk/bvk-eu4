@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Pope.md",
+                "file": "Tags/England.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pope"
+              "title": "England"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Pope.md",
+                "file": "Tags/England.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pope"
+              "title": "Backlinks for England"
             }
           },
           {
@@ -229,14 +229,15 @@
   },
   "active": "0f4886e0779495ff",
   "lastOpenFiles": [
+    "Mechanics/Holy Roman Empire.md",
+    "Campaigns/TBL - The Bohemian Lowlands.md",
+    "Other/Pope.md",
     "docs/attachments/20f228~1.jpg",
     "docs/attachments/20f228~1.html",
     "docs/other/pope.html",
     "Tactics/Perma Curia Strat.md",
     "Campaigns/TBL 1512 - Europe and Economy.md",
     "Campaigns/TBL 1503 - The First Crusade.md",
-    "Campaigns/TBL - The Bohemian Lowlands.md",
-    "Other/Pope.md",
     "Other/Terracina.md",
     "Attachments/20F228~1.jpg",
     "Campaigns/TBL 1499 - Project Poland.md",
@@ -273,7 +274,6 @@
     "docs/attachments/200c8a~1.jpg",
     "Attachments/202D38~1.jpg",
     "Attachments/200C8A~1.jpg",
-    "docs/attachments/203507~1.jpg",
-    "docs/attachments/20804b~1.jpg"
+    "docs/attachments/203507~1.jpg"
   ]
 }
