@@ -6,7 +6,7 @@ tags:
   - campaign
   - tbl
 date created: Tuesday, April 7th 2026, 9:14:41 pm
-date modified: Friday, April 10th 2026, 11:07:34 am
+date modified: Sunday, April 12th 2026, 3:37:03 pm
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -20,7 +20,7 @@ I've just used the Polish Diplomacy mission to [[Personal Union|PU]] [[Poland]] 
 During peacetime, we start annexing [[Styria]] and enable the Noble Integration Policy privilege for an additional 5% discount.
 
 ## Ottomans
-The Ottomans have a strong game, but I had feared that they would be a lot stronger by now. Completing the [[Bohemia|Bohemian]] Commonwealth mission requires kicking the Ottomans completely out of the Balkans region, so I better get started soon. [[Poland]] and [[Lithuania]] are loyal yet still have their troops at pre-union levels, so perhaps the right time to strike is now.
+The Ottomans have a strong game, but I had feared that they would be a lot stronger by now. Completing the [[Bohemia|Bohemian]] Commonwealth mission requires kicking the Ottomans completely out of the Balkans region, so I better get started soon. [[Poland]] and [[Lithuania]] are loyal yet still have their troops at pre-union levels, so perhaps the right time to strike is now. Glad to see that both [[England]] and [[Portugal]] will be helping us, this may even give us a small chance at sea.
 
 ![[Pasted image 20260407212810.png]]
 

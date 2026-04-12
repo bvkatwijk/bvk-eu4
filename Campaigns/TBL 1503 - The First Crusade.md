@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Friday, April 10th 2026, 10:49:49 am
-date modified: Saturday, April 11th 2026, 2:56:20 pm
+date modified: Sunday, April 12th 2026, 3:38:45 pm
 ---
 ![[204CF2~1.jpg]]
 
@@ -26,7 +26,7 @@ So far we are 500 ducats in debt, which is a lot less than I expected.
 
 # Sieging Anatolia
 
-We will have no way to cross into Anatolia because the massive Ottoman fleet is guarding the strait crossing. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the Ottomans to take back their capital.
+We will have no way to cross into Anatolia because the massive Ottoman fleet is guarding the strait crossing. [[England]] and [[Portugal]] were not able to beat the Ottoman navy, actually they fed them more ships by getting captured. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the Ottomans to take back their capital.
 
 # Peace Deal
 We want to be able to have good ways to take more Ottoman land in the future, so want to take provinces that allow us to release [[Bulgaria]] and [[Byzantium]] to use their [[Reconquest]] [[Casus Belli|CB]]s. We take their province, max money and war reparations to cripple their economy as much as possible.
@@ -40,9 +40,9 @@ But... unfortunately we have a regency council, so we cannot actually declare th
 
 # Dutch Revolt
 
-Since 1500 has passed, the [[Dutch Revolts]] disaster has started ticking up. By boosting our stability to +2 and accepting both [[Flemish] and [[Dutch]] [[Culture]], we were able to stop the disaster from progressing. However, after a few years some provinces turned [[Protestant]] which again gives the disaster progress without us being able to convert them back, meaning that the disaster will fire.
+Since 1500 has passed, the [[Dutch Revolts]] disaster has started ticking up. By boosting our stability to +2 and accepting both [[Flemish]] and [[Dutch]] [[Culture]], we were able to stop the disaster from progressing. However, after a few years some provinces turned [[Protestant]] which again gives the disaster progress without us being able to convert them back, meaning that the disaster will fire.
 
-We end up with 50K separatists rebels which were not too hard to beat. Every now and them we may have rebels for the next 20 years. I expect that the rebels will be weak enough so that we do not have to release Dutch countries.
+We end up with 50K separatists rebels which were not too hard to beat. Every now and them we may have rebels for the next 20 years. I expect that the rebels will be weak enough so that we do not have to release Dutch countries. The disaster will count towards being able to form [[Siam]] late-game so I will happily deal with a bit of rebels for the coming years.
 
 # Next
 - [[TBL 1512 - Europe and Economy]]

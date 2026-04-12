@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Fog of War.md",
+                "file": "Campaigns/TBL 1520 - Take the Balkans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fog of War"
+              "title": "TBL 1520 - Take the Balkans"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Fog of War.md",
+                "file": "Campaigns/TBL 1520 - Take the Balkans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fog of War"
+              "title": "Backlinks for TBL 1520 - Take the Balkans"
             }
           },
           {
@@ -186,6 +186,13 @@
   },
   "active": "a0f3e77418f186f5",
   "lastOpenFiles": [
+    "Attachments/20360E~1.jpg",
+    "Campaigns/TBL 1503 - The First Crusade.md",
+    "Campaigns/TBL 1499 - Project Poland.md",
+    "Campaigns/TBL 1512 - Europe and Economy.md",
+    "Campaigns/TBL 1520 - Take the Balkans.md",
+    "Qara Qoyunlu.md",
+    "Mechanics/Fog of War.md",
     "Campaigns/TBL - The Bohemian Lowlands.md",
     "docs/attachments/2042ab~1.jpg",
     "index.md",
@@ -193,8 +200,6 @@
     "Tactics/Combat.md",
     "Tags/Ottomans.md",
     "docs/tags/ottomans.html",
-    "Campaigns/TBL 1512 - Europe and Economy.md",
-    "Mechanics/Fog of War.md",
     "docs/attachments/2042ab~1.html",
     "docs/mechanics/fog-of-war.html",
     "Attachments/2042AB~1.jpg",
@@ -207,7 +212,6 @@
     "Mechanics/Holy Roman Empire.md",
     "docs/mechanics/holy-roman-empire.html",
     "Mechanics/Morale of armies.md",
-    "Campaigns/TBL 1503 - The First Crusade.md",
     "Stackwipe.md",
     "Other/Kosovo.md",
     "Tags/England.md",
@@ -217,11 +221,8 @@
     "docs/other/pope.html",
     "Other/Terracina.md",
     "Attachments/20F228~1.jpg",
-    "Campaigns/TBL 1499 - Project Poland.md",
     "Other/Ideas or To Do.md",
-    "Tags/Lithuania.md",
     "docs/tags/lithuania.html",
-    "Mechanics/Diplomatic annexation cost.md",
     "docs/mechanics/diplomatic-annexation-cost.html",
     "docs/mechanics/administrative-efficiency.html",
     "docs/mechanics/german-regional-tag.html",

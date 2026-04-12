@@ -6,12 +6,14 @@ tags:
   - tbl
   - vh
 date created: Saturday, April 11th 2026, 12:49:33 pm
-date modified: Sunday, April 12th 2026, 3:05:35 pm
+date modified: Sunday, April 12th 2026, 3:36:05 pm
 ---
 ![[202D38~1.jpg]]
 
 # Status
 Now that we can't do much in the east, we make some plays in Europe. Vladimir is on the throne, but our new heir is quite bad so we disinherit him, hoping for a better one. This may also allow us to get a different dynasty, perhaps a [[Russia|Russian]] one.
+
+[[England]] declared war on [[France]] and I dishonored the call to arms, meaning that our alliance is broken for now. I hope to regain them later on.
 
 # First Papal War
 After releasing [[Bulgaria]], we ally [[Florence]] and call him into a war with the [[Papal States]]. The war goes smoothly but unfortunately [[Florence]] occupies [[Roma]] without desiring it, meaning that we cannot fully annex the [[Pope]]. So we make a slightly modified plan for [[Perma Curia Strat]], perhaps adding an additional war with them. But for now we can hand off most Papal land to [[Florence]]. We want to grant [[Terracina]] to [[Bulgaria]] but they do not have enough coring range, so we take it for ourselves and need to hand it off later to a different subject.
@@ -40,5 +42,5 @@ We are approaching mid-game where Trade will be king. We take a trade province f
 
 Since Muscovy has rivalled us, the chance of [[Personal Union|PU]]-ing them is small. Novgorod is reduced to one province and I set up a play to diplo-vassalize them. This allows a huge [[Reconquest]] and gives me a subject to feed Swedish land to later in the campaign. Novgorod has +1% Missionary Strength in their national ideas which is nice but the massive military capabilities of a Russian subject would be a lot better. Perhaps we can feed Novgorod everything required to form Russia, make them break free, let them form Russia, then subjugate them again?
 
-
-The second Ottoman war is coming up. He no longer has Tunis as an ally
+# Next
+- [[TBL 1520 - Take the Balkans]]
