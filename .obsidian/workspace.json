@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Moral of ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,17 +187,19 @@
   },
   "active": "a0134c58ac84d6c1",
   "lastOpenFiles": [
+    "Mechanics/Holy Roman Empire.md",
+    "docs/mechanics/holy-roman-empire.html",
+    "Campaigns/TBL - The Bohemian Lowlands.md",
     "Campaigns/TBL 1512 - Europe and Economy.md",
-    "Tactics/Perma Curia Strat.md",
     "Tactics/Combat.md",
-    "Mechanics/Morale of armies.md",
     "Tags/Siam.md",
+    "Mechanics/Morale of armies.md",
+    "Tags/Austria.md",
+    "Tactics/Perma Curia Strat.md",
     "Campaigns/TBL 1503 - The First Crusade.md",
     "Stackwipe.md",
     "Other/Kosovo.md",
     "Tags/England.md",
-    "Mechanics/Holy Roman Empire.md",
-    "Campaigns/TBL - The Bohemian Lowlands.md",
     "Other/Pope.md",
     "docs/attachments/20f228~1.jpg",
     "docs/attachments/20f228~1.html",
@@ -221,9 +224,6 @@
     "Other/Catholic.md",
     "docs/other/catholic.html",
     "Tags/Kongo.md",
-    "docs/tags/kongo.html",
-    "Tags/Austria.md",
-    "Tags/Sardinia-Piedmont.md",
     "docs/attachments/207819~1.jpg",
     "Attachments/205A61~1.jpg",
     "Attachments/207819~1.jpg",
