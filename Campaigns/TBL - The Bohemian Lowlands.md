@@ -6,7 +6,7 @@ tags:
   - vh
   - tbl
 date created: Tuesday, April 7th 2026, 7:58:48 pm
-date modified: Sunday, April 12th 2026, 2:54:42 pm
+date modified: Monday, April 13th 2026, 10:45:46 am
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -30,7 +30,7 @@ Having many subjects and picking [[Religious Ideas]] increases the likelihood of
 
 # One Culture
 
-We can reduce separatism using missions from [[Croatia]]. Then stack a few discount modifiers. Combined with Enlightenment Institution and Adjacency we will likely hit -90% without much effort.
+We can reduce separatism using missions from [[Croatia]]. Then stack a few discount modifiers. Combined with [[Religious Ideas]] (-25%), Enlightenment Institution (-25%) and Adjacency we will likely hit -90% without much effort.
 
 # New World
 
@@ -66,3 +66,5 @@ So far I'm thinking of picking this order of idea groups:
 6. ?
 7. ?
 8. ?
+
+We will need [[Administrative Ideas]] for -25% [[Core-Creation Cost Reduction|CCR]]. Depending on how well our [[Personal Union|PU]] game goes we will pick [[Influence Ideas]] as well so that we get -40% [[Diplomatic annexation cost]] reduction with the combination policy.

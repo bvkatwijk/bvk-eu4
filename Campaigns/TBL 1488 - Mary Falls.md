@@ -16,7 +16,7 @@ Our [[Personal Union|PUs]] are a lot more loyal now that our own development got
 
 Now that [[Burgundy]] is no longer occupying a relation slot, I attack [[Saxony]] to subjugate them via our mission tree. The war is small and easily won, and afterwards I turn them into a [[Personal Union|PU]] which means we could get lucky and get a free annexation later on.
 
-The [[Aggressive Expansion|AE]] is quite bad and I postpone taking [[Brandenburg]]. Our war exhaustion is still high, and I decide to take [[Quality Ideas]] instead of [[Religious Ideas]] in our second slot. Combined with [[Diplomatic Ideas]] this gives a policy that reduces War Exhaustion. It may also prove helpful on fighting the Ottomans given that this is very hard difficulty. Not sure if I am going to regret not picking Religious.
+The [[Aggressive Expansion|AE]] is quite bad and I postpone taking [[Brandenburg]]. Our war exhaustion is still high, and I decide to take [[Quality Ideas]] instead of [[Religious Ideas]] in our second slot. Combined with [[Diplomatic Ideas]] this gives a policy that reduces War Exhaustion. It may also prove helpful on fighting the [[Ottomans]] given that this is very hard difficulty. Not sure if I am going to regret not picking Religious.
 
 # Expansion Plans
 

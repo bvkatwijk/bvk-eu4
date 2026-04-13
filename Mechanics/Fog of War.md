@@ -7,7 +7,7 @@ date modified: Sunday, April 12th 2026, 3:10:54 pm
 
 # No Aggressive Expansion
 
-Countries that you cannot see do not get AE towards you. So expanding hard towards the fog of war can save a lot of AE and help you keep expanding.
+Countries that you cannot see do not get [[Aggressive Expansion|AE]] towards you. So expanding hard towards the fog of war can save a lot of [[Aggressive Expansion|AE]] and help you keep expanding.
 
 # Troop Count of Unknown Countries
 

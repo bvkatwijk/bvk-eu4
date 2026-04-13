@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/TBL 1520 - Take the Balkans.md",
+                "file": "Campaigns/TBL - The Bohemian Lowlands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBL 1520 - Take the Balkans"
+              "title": "TBL - The Bohemian Lowlands"
+            }
+          },
+          {
+            "id": "7e435c944277dda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Capital.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capital"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/TBL 1520 - Take the Balkans.md",
+                "file": "Mechanics/Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TBL 1520 - Take the Balkans"
+              "title": "Backlinks for Capital"
             }
           },
           {
@@ -184,16 +199,33 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a0f3e77418f186f5",
+  "active": "7e435c944277dda9",
   "lastOpenFiles": [
-    "Attachments/20360E~1.jpg",
+    "docs/attachments/20360e~1.jpg",
+    "docs/attachments/2066aa~1.jpg",
+    "Tags/Qara Qoyunlu.md",
+    "docs/attachments/2012ef~1.jpg",
+    "docs/tags/qara-qoyunlu.html",
+    "Mechanics/Capital.md",
+    "docs/attachments/20360e~1.html",
+    "docs/attachments/2012ef~1.html",
+    "docs/attachments/2066aa~1.html",
+    "docs/mechanics/capital.html",
+    "Mechanics/Reconquest.md",
+    "Mechanics/Fog of War.md",
+    "Mechanics/Diplomatic annexation cost.md",
+    "Campaigns/TBL 1520 - Take the Balkans.md",
+    "docs/campaigns/tbl-1520-take-the-balkans.html",
+    "Campaigns/TBL 1512 - Europe and Economy.md",
     "Campaigns/TBL 1503 - The First Crusade.md",
     "Campaigns/TBL 1499 - Project Poland.md",
-    "Campaigns/TBL 1512 - Europe and Economy.md",
-    "Campaigns/TBL 1520 - Take the Balkans.md",
-    "Qara Qoyunlu.md",
-    "Mechanics/Fog of War.md",
+    "Campaigns/TBL 1488 - Mary Falls.md",
     "Campaigns/TBL - The Bohemian Lowlands.md",
+    "Tactics/Perma Curia Strat.md",
+    "Mechanics/Core-Creation Cost Reduction.md",
+    "Attachments/2066AA~1.jpg",
+    "Attachments/2012EF~1.jpg",
+    "Attachments/20360E~1.jpg",
     "docs/attachments/2042ab~1.jpg",
     "index.md",
     "Tags/Siam.md",
@@ -203,34 +235,17 @@
     "docs/attachments/2042ab~1.html",
     "docs/mechanics/fog-of-war.html",
     "Attachments/2042AB~1.jpg",
-    "Mechanics/Reconquest.md",
     "Tags/Hungary.md",
     "Tags/Tirol.md",
     "Tags/Austria.md",
-    "Tactics/Perma Curia Strat.md",
     "Mechanics/Curia Controller.md",
     "Mechanics/Holy Roman Empire.md",
     "docs/mechanics/holy-roman-empire.html",
     "Mechanics/Morale of armies.md",
     "Stackwipe.md",
     "Other/Kosovo.md",
-    "Tags/England.md",
-    "Other/Pope.md",
     "docs/attachments/20f228~1.jpg",
-    "docs/attachments/20f228~1.html",
-    "docs/other/pope.html",
-    "Other/Terracina.md",
     "Attachments/20F228~1.jpg",
-    "Other/Ideas or To Do.md",
-    "docs/tags/lithuania.html",
-    "docs/mechanics/diplomatic-annexation-cost.html",
-    "docs/mechanics/administrative-efficiency.html",
-    "docs/mechanics/german-regional-tag.html",
-    "docs/attachments/207819~1.jpg",
-    "Attachments/205A61~1.jpg",
-    "Attachments/207819~1.jpg",
-    "docs/attachments/202d38~1.jpg",
-    "docs/attachments/200c8a~1.jpg",
-    "Attachments/202D38~1.jpg"
+    "docs/attachments/207819~1.jpg"
   ]
 }

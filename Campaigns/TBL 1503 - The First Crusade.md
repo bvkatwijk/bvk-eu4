@@ -20,16 +20,16 @@ By playing patiently we are able to lure the enemy into defensive fights, which 
 
 # Claiming the Balkans
 
-Now that their numbers have decreased enough, and my allies have moved from [[Tunis]] into the Balkans, we are able to siege a few forts, including their capital [[Constantinople]]. Their siege ability is a lot better so they sometimes take one fort back. We can threaten to collapse on their siege with out superior quantity which causes them usually to abandon the siege, which means they have taken attrition without benefit.
+Now that their numbers have decreased enough, and my allies have moved from [[Tunis]] into the Balkans, we are able to siege a few forts, including their [[Capital]] [[Constantinople]]. Their siege ability is a lot better so they sometimes take one fort back. We can threaten to collapse on their siege with out superior quantity which causes them usually to abandon the siege, which means they have taken attrition without benefit.
 
 So far we are 500 ducats in debt, which is a lot less than I expected.
 
 # Sieging Anatolia
 
-We will have no way to cross into Anatolia because the massive Ottoman fleet is guarding the strait crossing. [[England]] and [[Portugal]] were not able to beat the Ottoman navy, actually they fed them more ships by getting captured. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the Ottomans to take back their capital.
+We will have no way to cross into Anatolia because the massive [[Ottomans|ottoman]] fleet is guarding the strait crossing. [[England]] and [[Portugal]] were not able to beat the [[Ottomans|ottoman]] navy, actually they fed them more ships by getting captured. We will have to wait for them to leave the strait, perhaps we can bait them by sending a few ships nearby. The alternative is to send our troops around, but this would allow the [[Ottomans]] to take back their [[Capital]].
 
 # Peace Deal
-We want to be able to have good ways to take more Ottoman land in the future, so want to take provinces that allow us to release [[Bulgaria]] and [[Byzantium]] to use their [[Reconquest]] [[Casus Belli|CB]]s. We take their province, max money and war reparations to cripple their economy as much as possible.
+We want to be able to have good ways to take more [[Ottomans|ottoman]] land in the future, so want to take provinces that allow us to release [[Bulgaria]] and [[Byzantium]] to use their [[Reconquest]] [[Casus Belli|CB]]s. We take their province, max money and war reparations to cripple their economy as much as possible.
 
 ![[200C8A~1.jpg]]
 
