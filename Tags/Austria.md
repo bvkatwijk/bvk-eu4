@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Saturday, April 11th 2026, 1:18:45 pm
-date modified: Sunday, April 12th 2026, 11:23:10 am
+date modified: Monday, April 13th 2026, 9:27:53 pm
 ---
 [[Formable Tag]], [[German Regional Tag]]
 # National Ideas
@@ -71,3 +71,10 @@ Selection of interesting ones:
     - [![Chance to inherit.png](https://eu4.paradoxwikis.com/images/thumb/d/de/Chance_to_inherit.png/28px-Chance_to_inherit.png)](https://eu4.paradoxwikis.com/File:Chance_to_inherit.png) **+25%** Chance to Inherit [[Personal Union]] Subjects
 - **[Iron Crown of Lombardy](https://eu4.paradoxwikis.com/Austrian_missions#One_true_king_of_italy "Austrian missions")**:
 	- [![Improve relations.png](https://eu4.paradoxwikis.com/images/thumb/4/46/Improve_relations.png/28px-Improve_relations.png)](https://eu4.paradoxwikis.com/Improve_relations "Improve relations") **+15%** Improve relations modifier
+
+# Austrian Absolute Monarchy
+
+Government reform granting
+- [![Culture conversion cost.png](https://eu4.paradoxwikis.com/images/thumb/5/5e/Culture_conversion_cost.png/28px-Culture_conversion_cost.png)](https://eu4.paradoxwikis.com/Culture_conversion_cost "Culture conversion cost") **−25%** [[Culture conversion]] cost
+- [![Culture conversion time.png](https://eu4.paradoxwikis.com/images/thumb/1/1b/Culture_conversion_time.png/28px-Culture_conversion_time.png)](https://eu4.paradoxwikis.com/Culture_conversion_time "Culture conversion time") **−20%** [[Culture conversion]] time
+- [![Monarch diplomatic skill](https://eu4.paradoxwikis.com/images/thumb/6/6a/Monarch_diplomatic_skill.png/28px-Monarch_diplomatic_skill.png)](https://eu4.paradoxwikis.com/Ruler#Heir "Monarch diplomatic skill") **+2** Monarch diplomatic skill

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Sunday, April 12th 2026, 3:19:17 pm
-date modified: Monday, April 13th 2026, 12:08:33 pm
+date modified: Monday, April 13th 2026, 2:57:13 pm
 ---
 
 
@@ -49,3 +49,14 @@ We take a province next to Egypt to be able to make further progress to the sout
 # Orthodox Pope
 
 When [[Sweden]] ends the war with Denmark we immediately execute the [[Perma Curia Strat]] by seizing [[Terracina]], accepting rebel demands, declaring war, fully annexing them and accepting papal rebel demands again. We have granted [[Roma]] to [[Byzantium]]. So now we are permanently in control over the Curia.
+
+# Schemes
+
+Now that we spawned in a fresh [[Pope]], they don't have any existing relations, meaning that we can easily [[Excommunication|Excommunicate]] [[Austria]]. This allows us to grab their land at -50% [[Aggressive Expansion|AE]], which saves us from having to release [[Tirol]] for a [[Reconquest]] strategy.
+
+The war with [[Austria]] drags in [[Salzburg]] which has a Reformed Center of Reformation, which we can remove using Force [[Religion]]. One down, five more to go.
+
+Both [[Great Britain]] and [[Sweden]] now have Vasa Dynasty so I am considering switching to it as well so that we can set up [[Personal Union|PU]] plays on both.
+
+
+

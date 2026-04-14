@@ -33,7 +33,7 @@ Sourced from [[Lambdaxx]]'s [video](https://www.youtube.com/watch?v=CrEzDjL80Xo&
 	- Accept [[Roma|Rome]]'s Papal Rebel Demands, re-creating the [[Papal States]]
 		- This results in you becoming [[Curia Controller]]
 2. Creating non-[[Catholic]] [[Papal States]]
-	- Convert [[Terracina]] for your subject to it's religion
+	- Convert [[Terracina]] for your subject to it's [[Religion]]
 	- Wait for Truce with [[Papal States]] to expire
 	- Seize [[Terracina]]
 	- Accept [[Terracina]]'s Papal Rebel Demands
@@ -44,7 +44,7 @@ Sourced from [[Lambdaxx]]'s [video](https://www.youtube.com/watch?v=CrEzDjL80Xo&
 # Explanation
 The crucial step is to create a [[Papal States]] that is not [[Catholic]]. Many traditional ways of (re)creating non-[[Catholic]] countries do not work for the [[Papal States]], but it seems that accepting Rebel Demands still allow the [[Pope]] to have other religions.
 
-The religion of a released country depends in some way on the religion of the most recently gained province. Therefore, the strategy is to feed the [[Papal States]] a non-[[Catholic]] province, then re-spawning them using Rebels.
+The [[Religion]] of a released country depends in some way on the [[Religion]] of the most recently gained province. Therefore, the strategy is to feed the [[Papal States]] a non-[[Catholic]] province, then re-spawning them using Rebels.
 
 It is likely that development also plays a role, but it is not clear to which extend exactly.
 
