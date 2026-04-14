@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Saturday, April 11th 2026, 5:28:22 pm
 date modified: Saturday, April 11th 2026, 5:30:59 pm
 ---

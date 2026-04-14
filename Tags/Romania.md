@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Monday, April 13th 2026, 10:02:13 pm
-date modified: Monday, April 13th 2026, 10:04:51 pm
+date modified: Tuesday, April 14th 2026, 10:05:14 pm
 ---
 [[Formable Tag]] using Romanian [[Culture]].
 # Found Bucharest

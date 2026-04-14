@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab56ba59d50b4d8c",
+        "id": "7419a8e9d9660fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f3e77418f186f5",
+            "id": "40d9b0f018c28768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Culture.md",
+                "file": "Tags/Armenia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Culture"
-            }
-          },
-          {
-            "id": "851a59889c551fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/TBL 1529 - Long Live the Emperor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TBL 1529 - Long Live the Emperor"
-            }
-          },
-          {
-            "id": "0e46cbc80889d019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/TBL 1512 - Europe and Economy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TBL 1512 - Europe and Economy"
-            }
-          },
-          {
-            "id": "d33ad89c128172be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Holy Roman Empire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Holy Roman Empire"
+              "title": "Armenia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/TBL 1529 - Long Live the Emperor.md",
+                "file": "Tags/Armenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TBL 1529 - Long Live the Emperor"
+              "title": "Backlinks for Armenia"
             }
           },
           {
@@ -227,8 +184,32 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "851a59889c551fc2",
+  "active": "40d9b0f018c28768",
   "lastOpenFiles": [
+    "Tags/Austria.md",
+    "Tags/Bulgaria.md",
+    "Tags/Croatia.md",
+    "Tags/England.md",
+    "Tags/Florence.md",
+    "Tags/Jerusalem.md",
+    "Tags/Kitara.md",
+    "Tags/Kongo.md",
+    "Tags/Morocco.md",
+    "Tags/Papal States.md",
+    "Tags/Poland.md",
+    "Tags/Romania.md",
+    "Tags/Sardinia-Piedmont.md",
+    "Tags/Siam.md",
+    "Tags/Sweden.md",
+    "Tags/Switzerland.md",
+    "Tags/Tirol.md",
+    "Tags/Hungary.md",
+    "Mechanics/Culture.md",
+    "Tags/Armenia.md",
+    "Campaigns/TBL - The Bohemian Lowlands.md",
+    "Mechanics/Holy Roman Empire.md",
+    "Campaigns/TBL 1512 - Europe and Economy.md",
+    "Campaigns/TBL 1529 - Long Live the Emperor.md",
     "docs/attachments/20f36a~1-1.jpg",
     "Mechanics/Excommunication.md",
     "docs/attachments/20f36a~1.jpg",
@@ -238,42 +219,18 @@
     "docs/attachments/20f36a~1-1.html",
     "docs/attachments/20dada~1.html",
     "docs/other/one-culture.html",
-    "Tags/Bohemia.md",
-    "Tags/Armenia.md",
     "docs/tags/armenia.html",
-    "Tags/Austria.md",
-    "Tags/Switzerland.md",
     "docs/tags/switzerland.html",
-    "Tags/Morocco.md",
     "docs/tags/morocco.html",
-    "Tags/Jerusalem.md",
     "docs/tags/jerusalem.html",
-    "Tags/Romania.md",
     "docs/tags/romania.html",
-    "Mechanics/Culture conversion.md",
     "docs/mechanics/culture-conversion.html",
-    "Tags/Siam.md",
-    "Campaigns/TBL 1512 - Europe and Economy.md",
-    "Campaigns/TBL - The Bohemian Lowlands.md",
-    "Mechanics/Religious Ideas.md",
-    "Mechanics/Religion.md",
-    "Mechanics/Culture.md",
-    "Tactics/Perma Curia Strat.md",
-    "Mechanics/Holy Roman Empire.md",
-    "Mechanics/Formable Tag.md",
-    "Campaigns/TBL 1529 - Long Live the Emperor.md",
-    "Campaigns/TBL 1520 - Take the Balkans.md",
-    "Tags/Croatia.md",
     "Attachments/20DADA~1.jpg",
     "Attachments/20F36A~1 1.jpg",
     "Attachments/20F36A~1.jpg",
-    "Mechanics/Capital.md",
     "docs/attachments/20360e~1.jpg",
     "docs/attachments/2066aa~1.jpg",
-    "Tags/Qara Qoyunlu.md",
     "docs/attachments/2012ef~1.jpg",
-    "Mechanics/Reconquest.md",
-    "Attachments/2066AA~1.jpg",
-    "Attachments/2012EF~1.jpg"
+    "Attachments/2066AA~1.jpg"
   ]
 }

@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Tuesday, April 14th 2026, 8:26:47 pm
-date modified: Tuesday, April 14th 2026, 8:27:50 pm
+date modified: Tuesday, April 14th 2026, 10:05:27 pm
 ---
 # Formation
 

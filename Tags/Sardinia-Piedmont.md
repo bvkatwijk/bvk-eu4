@@ -3,8 +3,9 @@ aliases:
   - SP
   - toothpaste
 tags:
+  - formable
 date created: Saturday, April 11th 2026, 5:03:34 pm
-date modified: Saturday, April 11th 2026, 5:12:27 pm
+date modified: Tuesday, April 14th 2026, 10:05:03 pm
 ---
 
 # Requirements

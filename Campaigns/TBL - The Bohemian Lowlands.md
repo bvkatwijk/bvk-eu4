@@ -6,7 +6,7 @@ tags:
   - vh
   - tbl
 date created: Tuesday, April 7th 2026, 7:58:48 pm
-date modified: Tuesday, April 14th 2026, 9:25:35 pm
+date modified: Tuesday, April 14th 2026, 10:02:40 pm
 ---
 ![[Attachments/202604~2.jpg]]
 
@@ -47,11 +47,15 @@ The run will involve many tag switches to stack certain modifiers such as [[Admi
 2. [[Sardinia-Piedmont]]
 3. [[Austria]]
 4. [[Jerusalem]]
-5. [[Siam]]
-6. [[Kongo]]
-7. [[Armenia]]
-8. [[England]]
-9. Netherlands
+5. [[Kongo]]
+6. [[Armenia]]
+7. [[Kitara]] or [[Siam]]
+8. Netherlands
+
+Optional tags, maybe net-positive in monarch points and with some nice benefits:
+- Tuscany
+- Poland
+- [[England]]
 # Birding
 
 I'll be using [[Birding]] for

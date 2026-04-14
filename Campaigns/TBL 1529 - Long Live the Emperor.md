@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Monday, April 13th 2026, 4:40:06 pm
-date modified: Tuesday, April 14th 2026, 9:24:32 pm
+date modified: Tuesday, April 14th 2026, 9:49:17 pm
 ---
 # Status
 I've declared a [[Reconquest]] war on [[Russia]] for Novgorod, the [[Russia|Russian]] army is impressive on paper but isn't much more than that, so our armies make steady progress and we quickly get to 60% war score. Then, in a wonderful chain of events, we achieve a massive expansion in... Europe.

@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Saturday, April 11th 2026, 4:27:25 pm
-date modified: Tuesday, April 14th 2026, 9:16:40 pm
+date modified: Tuesday, April 14th 2026, 10:04:55 pm
 ---
 [[Formable Tag]] that can be useful for [[One Culture]] runs due to their national ideas containing:
 [![Culture conversion cost.png](https://eu4.paradoxwikis.com/images/thumb/5/5e/Culture_conversion_cost.png/28px-Culture_conversion_cost.png)](https://eu4.paradoxwikis.com/File:Culture_conversion_cost.png) **Consolidation of the State**

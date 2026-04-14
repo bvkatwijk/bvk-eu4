@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Monday, April 13th 2026, 9:16:05 pm
-date modified: Monday, April 13th 2026, 9:25:07 pm
+date modified: Tuesday, April 14th 2026, 10:05:57 pm
 ---
 # Permanent Modifiers
 

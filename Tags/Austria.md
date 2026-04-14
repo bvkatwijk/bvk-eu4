@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+  - formable
 date created: Saturday, April 11th 2026, 1:18:45 pm
-date modified: Monday, April 13th 2026, 9:27:53 pm
+date modified: Tuesday, April 14th 2026, 10:05:54 pm
 ---
 [[Formable Tag]], [[German Regional Tag]]
 # National Ideas
