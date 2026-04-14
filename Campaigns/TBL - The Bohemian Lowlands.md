@@ -54,7 +54,7 @@ The run will involve many tag switches to stack certain modifiers such as [[Admi
 
 Optional tags, maybe net-positive in monarch points and with some nice benefits:
 - Tuscany
-- Poland
+- [[Poland]]
 - [[England]]
 # Birding
 
@@ -75,4 +75,4 @@ So far I'm thinking of picking this order of idea groups:
 7. ?
 8. ?
 
-We will need [[Administrative Ideas]] for -25% [[Core-Creation Cost Reduction|CCR]]. Depending on how well our [[Personal Union|PU]] game goes we will pick [[Influence Ideas]] as well so that we get -40% [[Diplomatic annexation cost]] reduction with the combination policy.
+We will need [[Administrative Ideas]] for -25% [[Core-Creation Cost|CCR]]. Depending on how well our [[Personal Union|PU]] game goes we will pick [[Influence Ideas]] as well so that we get -40% [[Diplomatic annexation cost]] reduction with the combination policy.

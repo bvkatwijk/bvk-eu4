@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Armenia.md",
+                "file": "Tags/Kitara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armenia"
+              "title": "Kitara"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Armenia.md",
+                "file": "Tags/Kitara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Armenia"
+              "title": "Backlinks for Kitara"
             }
           },
           {
@@ -186,35 +186,36 @@
   },
   "active": "40d9b0f018c28768",
   "lastOpenFiles": [
-    "Tags/Austria.md",
-    "Tags/Bulgaria.md",
-    "Tags/Croatia.md",
-    "Tags/England.md",
-    "Tags/Florence.md",
-    "Tags/Jerusalem.md",
-    "Tags/Kitara.md",
+    "Mechanics/Core-Creation Cost.md",
+    "docs/mechanics/core-creation-cost.html",
+    "Campaigns/TBL 1529 - Long Live the Emperor.md",
     "Tags/Kongo.md",
-    "Tags/Morocco.md",
-    "Tags/Papal States.md",
-    "Tags/Poland.md",
-    "Tags/Romania.md",
-    "Tags/Sardinia-Piedmont.md",
-    "Tags/Siam.md",
-    "Tags/Sweden.md",
-    "Tags/Switzerland.md",
-    "Tags/Tirol.md",
+    "Tags/Jerusalem.md",
     "Tags/Hungary.md",
-    "Mechanics/Culture.md",
+    "Tags/Switzerland.md",
+    "Tags/Sweden.md",
+    "Tags/Siam.md",
+    "Tags/Sardinia-Piedmont.md",
+    "Tags/Romania.md",
+    "Tags/Poland.md",
+    "Tags/Morocco.md",
+    "Tags/England.md",
+    "Tags/Croatia.md",
+    "Tags/Bulgaria.md",
+    "Tags/Austria.md",
     "Tags/Armenia.md",
     "Campaigns/TBL - The Bohemian Lowlands.md",
+    "Tactics/Zero Rebels.md",
+    "Tags/Kitara.md",
+    "docs/tags/kitara.html",
+    "Tags/Florence.md",
+    "Tags/Papal States.md",
+    "Tags/Tirol.md",
+    "Mechanics/Culture.md",
     "Mechanics/Holy Roman Empire.md",
-    "Campaigns/TBL 1512 - Europe and Economy.md",
-    "Campaigns/TBL 1529 - Long Live the Emperor.md",
     "docs/attachments/20f36a~1-1.jpg",
-    "Mechanics/Excommunication.md",
     "docs/attachments/20f36a~1.jpg",
     "docs/attachments/20dada~1.jpg",
-    "Other/One Culture.md",
     "docs/attachments/20f36a~1.html",
     "docs/attachments/20f36a~1-1.html",
     "docs/attachments/20dada~1.html",
@@ -223,8 +224,6 @@
     "docs/tags/switzerland.html",
     "docs/tags/morocco.html",
     "docs/tags/jerusalem.html",
-    "docs/tags/romania.html",
-    "docs/mechanics/culture-conversion.html",
     "Attachments/20DADA~1.jpg",
     "Attachments/20F36A~1 1.jpg",
     "Attachments/20F36A~1.jpg",
